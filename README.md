@@ -1,5 +1,5 @@
 # Superbike-gallery-project
-## Check the site at  👇 
+## Check the site here  👇 
 https://6519a53211fd766b45605e9c--super-bavarois-9df0cd.netlify.app/#1960s
 
 ![Screenshot (59)](https://github.com/Arijeet0523/Superbike-gallery-project/assets/113160103/778636e7-0e57-4aed-9535-b699f22a3eea)
