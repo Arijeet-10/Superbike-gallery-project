@@ -514,7 +514,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 /*SLIDES*/
 #slide0 {
 	background-color:#e5e4e9;
-	background: url(/photos/haya-top.png) center center no-repeat;
+	background: url(./photos/haya-top.png) center center no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -523,7 +523,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide1 {
-	background: url(/photos/WELCOME.png) center center no-repeat;
+	background: url(./photos/WELCOME.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -541,7 +541,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide3 {
-	background: url(/photos/zx10rr.png) center center no-repeat;
+	background: url(./photos/zx10rr.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -550,7 +550,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide4 {
-	background: url(/photos/aprilia.png) center center no-repeat;
+	background: url(./photos/aprilia.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -559,7 +559,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide5 {
-	background: url(/photos/r1.png) center center no-repeat;
+	background: url(./photos/r1.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -568,7 +568,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide6 {
-	background: url(/photos/ducati\ v4s.png) center center no-repeat;
+	background: url(./photos/ducati\ v4s.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -577,7 +577,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide7 {
-	background: url(/photos/h2.png) center center no-repeat;
+	background: url(./photos/h2.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -586,7 +586,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide8 {
-	background: url(/photos/v4\ street.png) center center no-repeat;
+	background: url(./photos/v4\ street.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -595,7 +595,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide9 {
-	background: url(/photos/m1000RR.png) center center no-repeat;
+	background: url(./photos/m1000RR.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -604,7 +604,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide10 {
-	background: url(/photos/rc8.png) center center no-repeat;
+	background: url(./photos/rc8.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -613,7 +613,7 @@ input#round:hover,input#round:active,input#round:visited,input#round:focus {
 }
 
 #slide11 {
-	background: url(/photos/mv.png) center center no-repeat;
+	background: url(./photos/mv.png) center center no-repeat;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
