@@ -2,7 +2,7 @@
 ### Check the site in the given link below 👇 
 https://6519b7ba08627f77dc672421--dainty-chaja-2bd0bb.netlify.app/#undefined
 
-#### Here are some screenshots of the project 👇
+### Here are some screenshots of the project 👇
 
 ![Screenshot (59)](https://github.com/Arijeet0523/Superbike-gallery-project/assets/113160103/778636e7-0e57-4aed-9535-b699f22a3eea)
 ![Screenshot (60)](https://github.com/Arijeet0523/Superbike-gallery-project/assets/113160103/2e5128b6-6391-4ad3-8492-d05a3f622e2d)
