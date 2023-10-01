@@ -1,6 +1,6 @@
 # Superbike-gallery-project
 ### Check the site in the given link below 👇 
-https://6519b7ba08627f77dc672421--dainty-chaja-2bd0bb.netlify.app/#undefined
+https://superbikegallery.netlify.app/#undefined
 
 ### Here are some screenshots of the project 👇
 
