@@ -16,9 +16,9 @@
       content="Take a quick journey into history of Porsche while listening the decade versions of a song Get Lucky. UX project made by Ondrej Homola. " />
    <meta name="author" content="Ondrej Homola - www.ondrejhomola.com">
    <link href="images/favicon.ico" rel="shortcut icon" />
-   <link rel="stylesheet" type="text/css" href="./styles/reset-min.css">
-   <link rel="stylesheet" type="text/css" href="./styles/style.css">
-   <link type="text/css" media="screen" rel="stylesheet" href="./styles/awwwards.css" />
+   <link rel="stylesheet" type="text/css" href="styles/reset-min.css">
+   <link rel="stylesheet" type="text/css" href="styles/style.css">
+   <link type="text/css" media="screen" rel="stylesheet" href="styles/awwwards.css" />
    <link
       href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900italic,900,700italic,700,600italic,600,400italic,300italic,300,200italic,200'
       rel='stylesheet' type='text/css'>
@@ -85,7 +85,22 @@
          <div class="arrow-left"></div>Turning off music kills a half of the experience ;)
       </span>
    </div>
-<!--    -->
+   <!-- <div id="floating-social">
+      <div id="fb-root"></div>
+      <script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "http://connect.facebook.net/en_GB/all.js#xfbml=1&appId=117414981655127";
+            fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));</script>
+
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="PORSCHEvolution.com"
+         data-text="PORSCHEvolution.com - a journey through history of @Porsche with decade music #GetLucky. Turn up the volume! Made by @Ondrej_Homola.">Tweet</a>
+      <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+      <div class="fb-share-button" style="top: -4px;" data-href="http://porschevolution.com" data-type="button_count">
+      </div>
+   </div> -->
    <div class="slide" id="slide0" data-slide="0">
       <div class="wrapper">
          <div class="new-logo"><span>SUPERBIKE</span>gallery</div>
@@ -99,7 +114,7 @@
 
          <audio id="start" class="active">
             <source src="/sounds/start ogg.ogg" type="audio/ogg">
-            <source src="sounds/start.mp3" type="audio/mpeg">
+            <source src="/sounds/start.mp3" type="audio/mpeg">
          </audio>
       </div>
    </div>
@@ -170,7 +185,7 @@
    </section>
    <section class="slide" id="slide5" data-slide="5">
       <div class="year year-shadow">
-         <div class="year-inner">YAMAHA<span>s</span></div>
+         <div class="year-inner">YAMAHA<span></span></div>
          <hr>
          <div class="year-desc">
             <span>Yamaha R1:</span>
@@ -185,7 +200,7 @@
    </section>
    <section class="slide" id="slide6" data-slide="6">
       <div class="year">
-         <div class="year-inner">DUCATI<span>s</span></div>
+         <div class="year-inner">DUCATI<span></span></div>
          <hr>
          <div class="year-desc">
             <span>Ducati Panigale V4S:</span>
@@ -200,7 +215,7 @@
    </section>
    <section class="slide" id="slide7" data-slide="7">
       <div class="year dark">
-         <div class="year-inner dark">KAWASAKI<span>s</span></div>
+         <div class="year-inner dark">KAWASAKI<span></span></div>
          <hr class="dark-line">
          <div class="year-desc dark">
             <span>Kawasaki Ninja H2R:</span>
@@ -215,7 +230,7 @@
    </section>
    <section class="slide" id="slide8" data-slide="8">
       <div class="year">
-         <div class="year-inner">DUCATI<span>s</span></div>
+         <div class="year-inner">DUCATI<span></span></div>
          <hr>
          <div class="year-desc">
             <span>Ducati StreetFighter V4:</span>
@@ -231,7 +246,7 @@
    </section>
    <section class="slide" id="slide9" data-slide="9">
       <div class="year">
-         <div class="year-inner">BMW<span>s</span></div>
+         <div class="year-inner">BMW<span></span></div>
          <hr>
          <div class="year-desc">
             <span>BMW M1000 RR:</span>
@@ -247,7 +262,7 @@
    </section>
    <section class="slide" id="slide10" data-slide="10">
       <div class="year">
-         <div class="year-inner dark">KTM<span>s</span></div>
+         <div class="year-inner dark">KTM<span></span></div>
          <hr class="dark-line">
          <div class="year-desc dark">
             <span>KTM 1190 RC8:</span>
@@ -263,7 +278,7 @@
    </section>
    <section class="slide" id="slide11" data-slide="11">
       <div class="year">
-         <div class="year-inner">MV AGUSTA<span>s</span></div>
+         <div class="year-inner">MV AGUSTA<span></span></div>
          <hr>
          <div class="year-desc">
             <span>MV Agusta F4R</span> <br>
@@ -304,20 +319,20 @@
          </div>
       </div>
    </section>
-   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-   <script src="./js/jpreloader.min.js"></script>
+   <script type="text/javascript" src="/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+   <script src="js/jpreloader.min.js"></script>
    <script type="text/javascript">
       $(document).ready(function () {
          $('body').jpreLoader();
       });
    </script>
-   <script type="text/javascript" src="./js/mobile.js"></script>
-   <script type="text/javascript" src="./js/js.js"></script>
-   <script type="text/javascript" src="./js/evolution.js"></script>
-   <script type="text/javascript" src="./js/jquery.stellar.min.js"></script>
-   <script type="text/javascript" src="./js/waypoints.min.js"></script>
-   <script type="text/javascript" src="./js/jquery.easing.1.3.js"></script>
-   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+   <script type="text/javascript" src="js/mobile.js"></script>
+   <script type="text/javascript" src="js/js.js"></script>
+   <script type="text/javascript" src="js/evolution.js"></script>
+   <script type="text/javascript" src="js/jquery.stellar.min.js"></script>
+   <script type="text/javascript" src="js/waypoints.min.js"></script>
+   <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+   <script type="text/javascript" src="/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 
 
 
